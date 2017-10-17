@@ -1,1 +1,1 @@
-# Introduction to Artificial Intelligence
+Artificial Intelligence Intro
